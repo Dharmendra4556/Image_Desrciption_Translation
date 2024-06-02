@@ -38,3 +38,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 - [Google Generative AI](https://developers.google.com/generative-ai) for the AI model.
 - [pyttsx3](https://pyttsx3.readthedocs.io/) for text-to-speech conversion.
 - [googletrans](https://pypi.org/project/googletrans/) for translation.
+
+## Contact
+
+For more information, visit my [LinkedIn profile](https://www.linkedin.com/in/dharmendra-behara-230388239/).
